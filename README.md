@@ -15,5 +15,5 @@ THEN they fall in sequential order COMPLETED
 WHEN I view the title element
 THEN I find a concise, descriptive title COMPLETED
 
-IDI Web Accessibility Checker for https://github.com/ivangal123/Week1-Assignment
+IDI Web Accessibility Checker for https://github.com/ivangal123/Assignment-Code-Refactor
 comes back with Feedback Congratulations! No known problems.
